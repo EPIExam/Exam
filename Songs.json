@@ -1,1 +1,53 @@
-
+{
+"band_vocalist_first_name": "Zaher",
+"band_vocalist_last_name" : "Zorgati",
+"band_name": "Myrath",
+"vocalist_photo": "https://raw.githubusercontent.com/EPIExam/Exam/master/zaher-zorgati.jpg",
+"songs": [
+{
+"title": "Believer",
+"album" : "Legacy",
+"icon": "https://raw.githubusercontent.com/EPIExam/Exam/master/believer.jpg"
+},
+{
+"title": "Dance",
+"album" : "Shehili",
+"icon": "https://raw.githubusercontent.com/EPIExam/Exam/master/dance.jpg"
+},
+{
+"title": "Get your freedom back",
+"album" : "Legacy",
+"icon": "https://raw.githubusercontent.com/EPIExam/Exam/master/get-your-freedom-back.jpg"
+},
+{
+"title": "Merciless Times",
+"album" : "Tales of the sands",
+"icon": "https://raw.githubusercontent.com/EPIExam/Exam/master/merciless-times.jpg"
+},
+{
+"title": "Born to survive",
+"album" : "Shehili",
+"icon": "https://raw.githubusercontent.com/EPIExam/Exam/master/born-to-survive.jpg"
+},
+{
+"title": "Endure the silence",
+"album" : "Legacy",
+"icon": "https://raw.githubusercontent.com/EPIExam/Exam/master/endure-the-silence.jpg"
+},
+{
+"title": "Mersal",
+"album" : "Shehili",
+"icon": "https://raw.githubusercontent.com/EPIExam/Exam/master/mersal.jpg"
+},
+{
+"title": "Duat",
+"album" : "Legacy",
+"icon": "https://raw.githubusercontent.com/EPIExam/Exam/master/duat.jpg"
+},
+{
+"title": "Tales of the sands",
+"album" : "Tales of the sands",
+"icon": "https://raw.githubusercontent.com/EPIExam/Exam/master/tales-of-the-sands.jpg"
+}
+]
+}
