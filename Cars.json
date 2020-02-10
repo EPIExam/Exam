@@ -1,0 +1,57 @@
+{
+"company_name": "Mercedes-Benz",
+"company_logo" : "https://raw.githubusercontent.com/EPIExam/Exam/master/mercedes-logo.jpg",
+"creation_year": "1926",
+"cars": [
+{
+"car_name": "A-Class",
+"starting_price" : "32,500",
+"photo": "https://raw.githubusercontent.com/EPIExam/Exam/master/A-Class.png"
+},
+{
+"car_name": "AMG GT",
+"starting_price" : "112,700",
+"photo": "https://raw.githubusercontent.com/EPIExam/Exam/master/AMG-GT.png"
+},
+{
+"car_name": "C-Class",
+"starting_price" : "41,400",
+"photo": "https://raw.githubusercontent.com/EPIExam/Exam/master/C-Class.png"
+},
+{
+"car_name": "CLA",
+"starting_price" : "33,100",
+"photo": "https://raw.githubusercontent.com/EPIExam/Exam/master/CLA.png"
+},
+{
+"car_name": "CLS",
+"starting_price" : "69,200",
+"photo": "https://raw.githubusercontent.com/EPIExam/Exam/master/CLS.png"
+},
+{
+"car_name": "E-Class",
+"starting_price" : "53,500",
+"photo": "https://raw.githubusercontent.com/EPIExam/Exam/master/E-Class.png"
+},
+{
+"car_name": "G-Class",
+"starting_price" : "124,500",
+"photo": "https://raw.githubusercontent.com/EPIExam/Exam/master/G-Class.png"
+},
+{
+"car_name": "GLA",
+"starting_price" : "33,950",
+"photo": "https://raw.githubusercontent.com/EPIExam/Exam/master/GLA.png"
+},
+{
+"car_name": "GLC",
+"starting_price" : "40,700",
+"photo": "https://raw.githubusercontent.com/EPIExam/Exam/master/GLC.png"
+},
+{
+"car_name": "GLS",
+"starting_price" : "70,150",
+"photo": "https://raw.githubusercontent.com/EPIExam/Exam/master/GLS.png"
+}
+]
+}
